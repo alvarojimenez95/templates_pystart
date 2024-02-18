@@ -1,0 +1,11 @@
+.coverage
+.vscode
+.pytest_cache
+venv
+.env
+*.egg-info
+*__pycache__*
+build
+.tox
+.mypy_cache
+htmlcov
